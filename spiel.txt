@@ -1,0 +1,81 @@
+waffen npc(Strichmännchen-Massimo);
+im zimmer wo der spieler aufwacht findet er unter einer holzdiele ein schwert mit einem zettel vom npc drauf;
+"dies ist ein besonderes schwert, welches ich jedoch auf meine reise nicht mitnehmen kann.
+ich werde es hier sicher verwahren und solltest du jemals wieder aufwachen, steht es dir frei, dich mit diesem schwert
+zu verteidigen. solltest du mich finden, werde ich dir die geheimnisse dieses schwertes enthüllen können."
+
+Spiel startet mit einem Flashback; 
+eine Friedliche, grüne Stadt ist zu sehen, in der der Hauptcharakter durch die Straßen mit nem Fahrrad fährt.
+der Charakter baut einen Unfall und fällt ins Koma.
+Der Bildschirm wird schwarz und er wacht im tutorial auf.
+an einer Ecke sind zwei Mädchen zu sehen, die eine gibt der anderen eine Schüssel Pudding.(Easter eggs der späterren NPCS Lea und Janina)
+an einem Briefkasten kann man den Namen Denißa bei genauerem hingucken erkennen.(easter egg)
+
+
+start tutorial:
+lernt sich zu bewegen, mit sachen zu interagieren, bzw. sie zumindestens aufzuheben.
+spieler wacht im zimmer auf, kann erkunden, "was ist hier passiert? anscheinend hab ich ne weile geschlafen..." 
+spieler muss unter einer holzdiele das schwert finden, um das zimmer verlassen zu können.
+Bonus im zimmer(kleines easter egg); aufm schreibtisch eine von "herr böhrends" korrigierte Klausur, mit der anmerkung des spielers "hm, hört sich französisch an."
+--> falls entdeckt, wird sich später an den namen errinert.
+
+außerhalb des zimmers ist eine verlassene, wüstenähnliche welt, die auf eine apokalypse hindeutet.
+das haus aus dem der spieler rauskommt, sieht verlassen und etwas zerstört aus. in der ferne ist eine lichtquelle zu sehen,
+ein lagerfeuer und die umrisse von etwas, was eine art kleinen unterschlupf darstellen könnte.
+komische geräusche kommen aus der Richtung, also wird der Spieler aufgefordert, sich der Stelle zu nähern, wobei er sich weiterhin mit der Steuerung vertraut machen kann. 
+hier findet er den improvisierten unterschlupf des ersten npcs vor(waffenschmied), der von einem monster angegriffen wird.
+kampftutorial wird eingeleitet...
+
+
+hier ist überall die rede von strichmännchen massimo
+spieler rettet npc, dieser stellt sich als massimo vor, und als er das schwert in der hand des spielers sieht, erkennt er es wieder;
+er hatte es bei ihm im haus verstaut, und erzählt, dass er aufgebrochen war, um seine freunde zu suchen,
+und das wertvolle schwert zurückgelassen hatte, damit er es nicht verlieren könne, 
+doch nun sich erstmal in diesem provisorischen haus niedergelassen hatte, das er aus herumliegenden planken gebaut hatte.
+er erklärt, auf die frage des spielers hin, was an einem holzschwert so besonders sei, dass es sich weiterentwikeln könnte;
+oder besser gesagt, dass er in der lage ist, es weiterzuentwickeln, sollte der spieler es schaffen, ihm die benötigten materialien zu beschaffen.-
+der spieler wird auf seinem weg zweimal materialien finden, mit denen er das schwert verbessern werden kann.
+
+er erwähnt frühere freunde; geht jedoch nicht weiter darauf ein.
+
+er erzählt, er habe in der nähe ein stück des benötigtem materials gesehen, und schickt den charakter los.
+er findet in der nähe eine truhe, in der das benötigte material vorhanden ist; doch sie gehört zwei weiteren npcs; Khnathien und Luca. 
+sie erklären, dass sie ihm die materialien geben würden, sollte der charakter kts lazarauge wiederbeschaffen, welches ein monster ihr abgenommen hatte.
+der charakter willigt ein und besigt das monster in einer kleinen höhle, bringt kt ihr auge zurück, mit welchem diese ab sofort kämpfen kann,
+und die beiden schließen sich der gruppe an und begleiten den charakter zurück zu strich . dieser freut sich über die materialien, und als der chraakter ihn fragt,
+ob die beiden npcs auch bleiben könnten, erkennen sie sich wieder; es stellt sich heraus, dass sie der gleichen Freundesgruppe angehört hatten, die sich jedoch 
+kurz vor der Apokalypse verloren und bis dato nicht wiedergefunden hatten. 
+das schwert wird aufgewertet.
+
+kt und luca erzählen von einer schule zu der sie auf dem weg waren, bevor das monster sie angegriffen hatte, die als stützpunkt von einer kleinen gruppe genutzt wird,
+jedoch auch von monstern umzingelt ist, welhalb die npcs dort nicht rauskommen.
+der charakter überzeugt massimo sich ihnen anzuschließen und seinen "Unterschlupf" zurückzulassen und sie machen sich zu viert auf den Weg zur Schule.  
+bei der schule angekommen durchqueren sie mehrere Räume, in denen sie auf monster stoßen. in einem liegt ein skelett, welches man optional untersuchen kann;
+"herr böhrends steht auf einem Namensschild." wenn man vorher im zimmer die klausur sich angeschaut hatte, kommt auch noch der Kommentar "das kommt mir iwie bekannt vor..."
+sie kämpfen sich den weg zu einenm verbarrikadiertem raum vor, und als sie ihn aufbrechen, stehen ihnen drei weitere npcs gegenüber; Vanesa, die einen Zauberstab auf sie richtet,
+Fabiane, die mit dem Tennisschläger auf sie zeigt sowie Lea, die mit einer Schüssel Pudding rumrennt.
+aber die npcs erkennen sich wieder und freuen sich wie verrückt, da platzen monster herein und es wird gekämpft.
+im nachhinein sitzen alle glücklich da und essen pudding, und strichmännchen massimo gesteht dem charakter, dass die gruppe sich nicht im guten getrennt hatte;
+sie hatten sich kurz vor ausbruch des viruses zerstritten, und seitdem nicht mehr wiedergesehen.
+sie beschließen, den rest der freundesgruppe suchen zu gehen; also machen sich der charakter, fabiane und khanthien die schule. 
+außerdem beschließem lea, vanesa und luca sich auf den weg zu machen, neue zutaten für den pudding zu suchen, sobald der main charakter zurückkehrt.
+
+fbi, kt + charakter laufen ein stück und werden in einen monsterhinterhalt gelockt; es sieht nicht gut aus. da werden fällt ein monster nach dem anderen zu boden,
+ sei es, weil ein aus dem nichts kommender pfeil sie zerstört, oder weil sie von einem schnell sich durch die meute bewegendem etwas abgestochen werden.
+hier tauchen denisa und janina auf; durch sie erfährt der maincharakter mehr über das virus, wenn er sie drauf anspricht.
+--> die menschen, die nicht von dem ausgebrochenen karana getötet wurden, fingen an, sich selbst um lebensmittel etc zu streiten;
+sie wurden also teils Charaktermäßig zu Monstern. einige gingen sogar so weit, und gingen zum Kannibalismus über;
+diese ehrenlose Aktion verwandelte sie dann in die Monster, gegen die der Main Charakter nun schon so oft gekämpft hatte.
+
+zurück in der schule gibt es ein freudiges zsmtreffen, und lea, vanesa, luca und der maincharakter machen sich wie vorher besprochen auf den Weg Zutaten für den Pudding
+sowie für ein paar Cupcakes zu besorgen, die Janina machen wollte. auf dem weg zu einem verlassenem Supermarkt erkennen sie plötzlich eine gestalt aus der Ferne auf sie 
+zurennen; als sie sich nähert, erkennt man Massimo(den richtigen), und auch hier freuen sich alle. jedoch gesteht er den Freundne, dass er ehrlichgesgat vor einer Gruppe 
+Monstern auf der Flucht war; und so kommt es erneut zum Kampf.  anschließend kehren alle zur schule zurück; endlich ist die gruppe vollzählig, und die damaligen 
+Streitigkeiten werden endgültig begraben. Massimo besitzt das letzte Teil, mit dem man das Schwert endgültig aufwerten kann.
+
+
+
+
+
+
+
