@@ -1,0 +1,5 @@
+hier muss in den Ordner noch der Track rein mit .wav,
+dann muss trackname natürlich in den namen davon umgeändert werden und 
+in die Hauptklasse selber muss
+
+Musik.music("audio/trackname.wav");
