@@ -28,6 +28,7 @@ public class Player extends Creature {
 
 	@Override
 	public void update() {
+		this.createBubbleIfNear(game.fire, 0);
 		move();
 		super.update();
 		game.getGameCamera().centerOnEntity(this);
