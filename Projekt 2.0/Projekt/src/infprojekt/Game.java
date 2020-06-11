@@ -21,6 +21,7 @@ public class Game implements Runnable {
 	BufferStrategy bs;
 	Graphics g;
 	AnimEntity fire;
+	public SpeechBubbleCreator bubbleCreator;
 
 	public static void main(String[] arg) {
 		Game game = new Game();
@@ -35,6 +36,8 @@ public class Game implements Runnable {
 		screen = new Screen("Game", SCREEN_WIDTH, SCREEN_HEIGHT);
 		keyManager = new KeyManager();
 		screen.getFrame().addKeyListener(keyManager);
+
+		bubbleCreator = new SpeechBubbleCreator(screen);
 
 		TileSet[] tileSet = new TileSet[3];
 		// Ground layer tileset with blocking tiles
@@ -63,7 +66,7 @@ public class Game implements Runnable {
 			update();
 			timestamp = System.currentTimeMillis();
 			if(timestamp-oldTimestamp > maxLoopTime) {
-				System.out.println("Wir sind zu sp‰t!");
+				System.out.println("Wir sind zu sp√§t!");
 				continue;
 			}
 			render();
